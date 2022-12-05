@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1668917688,
+	"version": 1670214226,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -18,6 +18,13 @@
 		"images/up-sheet0.png",
 		"images/tilemap.png",
 		"images/wall-sheet0.png",
+		"images/coin-sheet0.png",
+		"images/coin-sheet1.png",
+		"images/score.png",
+		"images/particles2.png",
+		"images/enemy-sheet0.png",
+		"images/enemy-sheet1.png",
+		"images/blocker-sheet0.png",
 		"media/swoosh1.m4a",
 		"media/swoosh1.ogg",
 		"media/scratch1.m4a",
